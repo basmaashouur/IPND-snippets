@@ -1,1 +1,1 @@
-# IPNDS-snippets-
+# IPND-snippets
