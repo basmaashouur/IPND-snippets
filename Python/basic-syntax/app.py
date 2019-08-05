@@ -57,7 +57,7 @@ print(sett)
 
 #Function
 
-def test(x):
+def test(x):  # x is parameter
     print(x)
 
-test(10)  
+test(10)   # 10 is argument
