@@ -54,3 +54,10 @@ print(dict, dict[40])
 sett = set([0, 1, 2, 3, 4, 5])
 sett.add(20)
 print(sett)
+
+#Function
+
+def test(x):
+    print(x)
+
+test(10)  
