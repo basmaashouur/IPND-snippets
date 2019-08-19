@@ -25,7 +25,7 @@ for c in color_list:
 
 # Strings
 str = "heeeeeeey\""
-print(str);
+print(str)
 
 aa = '''Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
